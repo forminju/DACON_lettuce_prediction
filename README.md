@@ -1,4 +1,5 @@
 # DACON_lettuce_prediction
+![대회설명이미지](https://user-images.githubusercontent.com/92534659/209780762-7153a789-b52a-41a9-a108-11a351c41bef.png)
 [상추의 생육 환경 생성 AI 경진대회](https://dacon.io/competitions/official/236033/overview/description)
 ---  
 최종 결과 **4위 (3% / 613명 참여)** 를 기록한 대회입니다.
