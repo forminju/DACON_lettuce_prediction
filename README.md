@@ -47,6 +47,9 @@ Train / Test set
 | feature 간 곱 | Target과의 관계가 유사하거나 Feature 간 상관관계가 높다고 판단한 변수의 영향력을 측정하기 위해 습도 X 온도, 습도 X 온도 X co2, 비료(ec X 분무량), ec X co2를 생성함 |
 | DAT 곱 | 작물의 생육곡선이 S자형임을 고려해 최근 환경변수의 영향을 키우기 위해 비료, 습도 X 분무량, co2, 습도 누적, 비료 누적에 생육 일을 곱함 |
 
+## Insight
+- 생성 모델 결과로부터 조성된 생육 환경 해석과 적합성 검토 등의 인사이트는 [ [왕왕상츄]_PPT자료](https://github.com/forminju/DACON_lettuce_prediction/blob/main/%5B%EC%99%95%EC%99%95%EC%83%81%EC%B8%84%5D_PPT%EC%9E%90%EB%A3%8C.pdf)에서 확인할 수 있습니다
+
 ## Team Members
 - [노지예](https://github.com/kkumtori), [전민주](https://github.com/forminju), [조성우](https://github.com/jswooo), [임홍주](https://github.com/hihongju)
 
@@ -54,5 +57,3 @@ Train / Test set
 - PAR
 https://sdv.dev/SDV/api_reference/timeseries/api/sdv.timeseries.deepecho.PAR.html
 - 적산온도 https://data.kma.go.kr/climate/sot/selectSotChart.do?pgmNo=100
-
-#### 생성 모델 결과로부터 조성된 생육 환경 해석과 적합성 검토 등의 인사이트는 [ [왕왕상츄]_PPT자료](https://github.com/forminju/DACON_lettuce_prediction/blob/main/%5B%EC%99%95%EC%99%95%EC%83%81%EC%B8%84%5D_PPT%EC%9E%90%EB%A3%8C.pdf)에서 확인할 수 있습니다.
